@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Louis Yansaud
+- __Occupation:__ "M.S Business Analytics Graduate Student"
+- __Hobbies:__ Learning software development instead of studying for exams. 
+
+Here is a super cool photo of me doing one of my favorite things, yawning. 
+
+![](louis_image.png)
